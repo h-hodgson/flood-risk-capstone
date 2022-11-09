@@ -24,9 +24,9 @@ Training data points were randomly selected across my area of interest in southe
 
 After training the model on 3000 data points across southeast England, the best model was then used to build a picture of the predicted flood risk in the whole area of interest **using future rainfall data** predicted by Centre for Environmental Data Analysis. This is visualised in the two images below: the first image showing the current risk and the second showing the increased risk with 10% more rainfall per year.
 
-![Current flood risk](/final-points-data.png?raw=true title="Current flood risk in SE England")
+![Current flood risk](/final-points-data.png?raw=true, title="Current flood risk in SE England")
 
-![Future flood risk](/future-risk.png?raw=true title="Future flood risk in SE England")
+![Future flood risk](/future-risk.png?raw=true, title="Future flood risk in SE England")
 
 With reasonable clarity, the second image is darker than the first image, visualising the heightened risk of flooding with ten percent more annual rainfall across the whole of southeast England.
 
